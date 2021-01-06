@@ -3,4 +3,4 @@
 
 <p align="center">👨‍💻 Tout mes projets  : https://github.com/Nathack-dev?tab=repositories</p>
 
-![Les Stats GitHub de Nathack](https://github-readme-stats.vercel.app/api?username=nathack-dev&show_icons=true&theme=radical)
+p align="center">![Les Stats GitHub de Nathack](https://github-readme-stats.vercel.app/api?username=nathack-dev&show_icons=true&theme=dark)</p>
