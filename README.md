@@ -22,5 +22,5 @@
     <img align="center" src="/images/teamspeak-24.png"></img>
   </a>
 </p>
-<p align="center"><img align="center" src="/images/1f1eb-1f1f7.png"></img>- France</p>
+<p align="center"><img align="center" src="/images/32b3939f15616877ed7184cfecbcede2-32bits-24.png"></img>- France</p>
 
