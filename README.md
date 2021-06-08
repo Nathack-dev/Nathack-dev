@@ -18,7 +18,7 @@
   <a href="https://twitter.com/Nathack_" target="_blank">
      <img align="center" src="/images/Twitter_x24.png"></img>
   </a>
-  <a href="ts3server://ts.nathack.fr?port=9988" target="_blank">
+  <a href="ts.nathack.fr" target="_blank">
     <img align="center" src="/images/teamspeak-24.png"></img>
   </a>
 </p>
