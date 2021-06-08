@@ -1,5 +1,5 @@
-## A propos de moi 🎩
-- Salut ! Je m'appel Nathan, et bienvenue sur mon Github. Je'adore l'informatique et tout ce qui en approche. Je touche à tout, du développement jusqu'à l'administration système.
+## 🎩 A propos de moi 
+- Salut ! Je m'appelle Nathan, j'habite à Saint-Etienne et bienvenue sur mon Github.  J'adore l'informatique et tout ce qui en approche. Je touche à tout, du développement jusqu'à l'administration système.
 
 ## ⚙️ Mes Technologies que je maîtrise / Outils
 - 💾 Proxmox, PufferPanel, Pterodactyl.
@@ -21,9 +21,3 @@
     <img align="center" src="/images/teamspeak-24.png"></img>
   </a>
 </p>
-
-<p align="center">👨‍💻 Tout mes projets  : https://github.com/Nathack-dev?tab=repositories</p>
-<p align="center">🔗 Mon site : https://nathack.fr</p>
-<p align="center">📺 Mon serveur discord : https://discord.nathack.fr</p>
-<p align="center">🔊 Mon serveur TeamSpeak : https://nathack.fr</p>
-  
