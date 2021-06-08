@@ -5,6 +5,7 @@
 - 💾 Proxmox, PufferPanel, Pterodactyl.
 - 📃 Java, JavaScript, Python, HTML, PHP...
 - 💻 Systèmes d'exploitation utilisés: Ubuntu, Debian, Windows
+- Logiciels: Visual Studio Code, Eclipse IDE, Sublime Text, FileZila, Blender, MobaXterm, PuTTY.
 
 ## 🔗 Réseaux sociaux
 <p align="left">
