@@ -9,7 +9,7 @@
 ## Réseaux sociaux
 <p align="left">
   <a href="https://nathack.fr" target="_blank">
-    <img align="center" src="/images/1623187174800.png"></img>
+    <img align="center" src="🔗"></img>
   </a>
   <a href="https://discord.gg/BendS9hX4Y/" target="_blank">
     <img align="center" src="/images/discord-24.png"></img>
