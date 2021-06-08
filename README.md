@@ -1,13 +1,13 @@
-## 🎩 A propos de moi 
+## 🎩 A propos de moi:
 - Salut ! Je m'appelle Nathan, j'habite à Saint-Etienne et bienvenue sur mon Github.  J'adore l'informatique et tout ce qui en approche. Je touche à tout, du développement jusqu'à l'administration système.
 
-## ⚙️ Mes Technologies que je maîtrise / Outils
+## ⚙️ Mes Technologies que je maîtrise / Outils:
 - 💾 Proxmox, PufferPanel, Pterodactyl.
 - 📃 Java, JavaScript, Python, HTML, PHP...
-- 💻 Systèmes d'exploitation utilisés: Ubuntu, Debian, Windows
+- 💻 Systèmes d'exploitation utilisés: Ubuntu, Debian, Windows.
 - 🔨 Logiciels: Visual Studio Code, Eclipse IDE, Sublime Text, FileZila, Blender, MobaXterm, PuTTY.
 
-## 🔗 Réseaux sociaux
+## 🔗 Réseaux sociaux:
 <p align="left">
   <a href="https://nathack.fr" target="_blank">
     <img align="center" src="/images/9235fb9ba89bce004bcbd22019f95bf0-32bits-32.png"></img>
