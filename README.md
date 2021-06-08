@@ -1,5 +1,26 @@
-<h1 align="center">Salut 👋, je m'apelle Nathan !
-<h2 align="center">J'adore l'informatique et tout ce qui en approche.</h2>
+##A propos de moi 🎩
+- Salut ! Je m'appel Nathan, et bienvenue sur mon Github. Je'adore l'informatique et tout ce qui en approche. Je touche à tout, du développement jusqu'à l'administration système.
+
+## ⚙️ Mes Technologies que je maîtrise / Outils
+- 💾 Proxmox, PufferPanel, Pterodactyl.
+- 📃 Java, JavaScript, Python, HTML, PHP...
+- 💻 Systèmes d'exploitation utilisés: Ubuntu, Debian, Windows
+
+##Réseaux sociaux
+<p align="left">
+  <a href="https://discord.gg/BendS9hX4Y/" target="_blank">
+    <img align="center" src="/images/discord-24.png"></img>
+  </a>
+  <a href="https://twitter.com/Nathack_" target="_blank">
+     <img align="center" src="/images/Twitter_x24.png"></img>
+  </a>
+  <a href="ts3server://ts.nathack.fr?port=9988" target="_blank">
+    <img align="center" src="/images/teamspeak-24.png"></img>
+  </a>
+</p>
+
+
+
 
 <p align="center">👨‍💻 Tout mes projets  : https://github.com/Nathack-dev?tab=repositories</p>
 <p align="center">🔗 Mon site : https://nathack.fr</p>
