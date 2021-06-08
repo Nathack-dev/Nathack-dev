@@ -5,7 +5,7 @@
 - 💾 Proxmox, PufferPanel, Pterodactyl.
 - 📃 Java, JavaScript, Python, HTML, PHP...
 - 💻 Systèmes d'exploitation utilisés: Ubuntu, Debian, Windows
-- Logiciels: Visual Studio Code, Eclipse IDE, Sublime Text, FileZila, Blender, MobaXterm, PuTTY.
+- 🔨 Logiciels: Visual Studio Code, Eclipse IDE, Sublime Text, FileZila, Blender, MobaXterm, PuTTY.
 
 ## 🔗 Réseaux sociaux
 <p align="left">
@@ -22,4 +22,5 @@
     <img align="center" src="/images/teamspeak-24.png"></img>
   </a>
 </p>
-<p align="center">🇫🇷 - France</p>
+<p align="center"><img align="center" src="/images/1f1eb-1f1f7.png"></img>- France</p>
+
