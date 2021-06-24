@@ -23,4 +23,3 @@
   </a>
 </p>
 <p align="center"><img align="right" src="/images/32b3939f15616877ed7184cfecbcede2-32bits-24.png"></img></p>
-
