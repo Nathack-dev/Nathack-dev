@@ -1,5 +1,5 @@
 ## 🎩 A propos de moi:
-- Salut ! Je m'appelle Nathan, j'habite à Saint-Etienne et bienvenue sur mon Github. J'adore l'informatique et tout ce qui en approche. Je touche à tout, du développement jusqu'à l'administration système. J'ai rejoint Github il y a **4** ans. Depuis, j'ai push **67** commits, ouvert **0** issues, soumis **0** pull requests, reçu **18** stars à travers **11** projets personnels et contribué à **3** repositories publics.
+- Salut ! Je m'appelle Nathan, j'habite à Saint-Etienne et bienvenue sur mon Github. J'adore l'informatique et tout ce qui en approche. Je touche à tout, du développement jusqu'à l'administration système. J'ai rejoint Github il y a **4** ans.
 
 ## ⚙️ Mes Technologies que je maîtrise / Outils:
 - 💾 Proxmox, PufferPanel, Pterodactyl, SQL.
