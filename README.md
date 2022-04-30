@@ -19,6 +19,6 @@
      <img align="center" src="/images/twitter.png"></img>
   </a>
   <a href="https://ts.nathack.fr" target="_blank">
-    <img align="center" src="/images/teamspeak-24.png"></img>
+    <img align="center" src="/images/teamspeak.png"></img>
   </a></p>
 <p align="center"><img align="right" src="/images/32b3939f15616877ed7184cfecbcede2-32bits-24.png"></img></p> 
