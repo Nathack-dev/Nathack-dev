@@ -13,10 +13,10 @@
     <img align="center" src="/images/web.png"></img>
   </a>
   <a href="https://discord.gg/Vqdr6g35HV" target="_blank">
-    <img align="center" src="/images/discord-24.png"></img>
+    <img align="center" src="/images/discord.png"></img>
   </a>
   <a href="https://twitter.com/Nathack_" target="_blank">
-     <img align="center" src="/images/Twitter_x24.png"></img>
+     <img align="center" src="/images/twitter.png"></img>
   </a>
   <a href="https://ts.nathack.fr" target="_blank">
     <img align="center" src="/images/teamspeak-24.png"></img>
