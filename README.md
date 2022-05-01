@@ -3,7 +3,7 @@
 
 ## ⚙️ Mes Technologies que je maîtrise / Outils:
 - 💾 PufferPanel, Pterodactyl, Proxmox, SQL.
-- 📃 Java, JavaScript, Python, HTML, PHP...
+- 📃 Java, JavaScript, Python, HTML, PHP, Lua...
 - 💻 Systèmes d'exploitation utilisés: Ubuntu, Debian, Windows.
 - 🔨 Logiciels: Visual Studio Code, Eclipse IDE, JetBrain IntelliJ IDEA, Sublime Text, FileZilla, Blender, MobaXterm, PuTTY.
 
