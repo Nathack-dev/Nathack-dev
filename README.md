@@ -1,6 +1,6 @@
 <p align="left">
-Nathack <a href="https://nathack.fr" target="_blank">
-    <img align="center" src="/images/web.png"></img>
+**Nathack** <a href="https://nathack.fr" target="_blank">
+    <img align="center" src="/images/certified.png"></img>
   </a>
 
 ## 🎩 À propos de moi :
