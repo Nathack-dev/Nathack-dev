@@ -1,8 +1,3 @@
-<p align="left">
-# Nathack <a href="https://nathack.fr" target="_blank">
-    <img align="center" src="/images/certified.png" width="25" height="25"></img>
-  </a>
-
 ## 🎩 À propos de moi :
 - Bonjour ! Je suis Nathan, résidant en France et je vous souhaite la bienvenue sur mon Github. Je suis passionné par l'informatique et tout ce qui s'y rapporte, allant du développement à l'administration système. J'explore également d'autres domaines qui me passionnent. J'ai intégré Github il y a **5** ans.
 
