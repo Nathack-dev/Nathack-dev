@@ -18,9 +18,9 @@ Nathack <a href="https://nathack.fr" target="_blank">
     <img align="center" src="/images/site.png"></img>
   </a>
   <a href="https://discord.gg/pFF5y7BX" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></img>
+    <img align="center" src="/images/discord.png"></img>
   </a>
   <a href="https://twitter.com/Nathack_" target="_blank">
-     <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></img>
+     <img align="center" src="/images/twitter.png"></img>
   </a></p>
 <p align="center"><img align="right" src="/images/french.png"></img></p> 
