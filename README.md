@@ -23,4 +23,4 @@ Nathack <a href="https://nathack.fr" target="_blank">
   <a href="https://twitter.com/Nathack_" target="_blank">
      <img align="center" src="/images/twitter.png"></img>
   </a></p>
-<p align="center"><img align="right" src="/images/32b3939f15616877ed7184cfecbcede2-32bits-24.png"></img></p> 
+<p align="center"><img align="right" src="/images/french.png"></img></p> 
