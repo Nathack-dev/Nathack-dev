@@ -1,5 +1,5 @@
 <p align="left">
-**Nathack** <a href="https://nathack.fr" target="_blank">
+# Nathack <a href="https://nathack.fr" target="_blank">
     <img align="center" src="/images/certified.png" width="25" height="25"></img>
   </a>
 
