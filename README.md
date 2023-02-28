@@ -3,14 +3,17 @@ Nathack <a href="https://nathack.fr" target="_blank">
     <img align="center" src="/images/web.png"></img>
   </a>
 
-## 🎩 A propos de moi :
+## 🎩 À propos de moi :
 - Salut ! Je m'appelle Nathan, j'habite à Saint-Etienne et bienvenue sur mon Github. J'adore l'informatique et tout ce qui en approche. Je touche à tout, du développement jusqu'à l'administration système. J'ai rejoint Github il y a **4** ans.
 
-## ⚙️ Mes Technologies que je maîtrise / Outils:
-- 💾 PufferPanel, Pterodactyl, Proxmox, SQL.
-- 📃 Java, JavaScript, Python, HTML, PHP, Lua...
-- 💻 Systèmes d'exploitation utilisés: Ubuntu, Debian, Windows.
-- 🔨 Logiciels: Visual Studio Code, Eclipse IDE, JetBrain IntelliJ IDEA, Sublime Text, FileZilla, Blender, MobaXterm, PuTTY.
+## ⚙️ Mes technologies/outils que je maîtrise/utilise :
+- 💾 Hébergement/Serveur : PufferPanel, Pterodactyl, Proxmox, OVH, Google Cloud, Apache, Cloudflare, NGinx.
+- 📃 Langages :Java, JavaScript, Python, HTML, PHP, CSS, C++, Lua...
+- 📦 Base de donnée : MySQL, MongoDB, MariaDB...
+- 💻 Systèmes d'exploitation utilisés : Ubuntu, Debian, Kali Linux, Windows 10.
+- 🔨 Logiciels : Visual Studio Code, Eclipse IDE, JetBrain IntelliJ IDEA, Sublime Text, FileZilla, Blender, MobaXterm, PuTTY.
+- ✏️ Conception : Adobe Photoshop, Adobe Illustrator, Adobe Premier Pro, Canva, Figma. 
+- 📚 Autre : Trello, Notion, Stack Overflow, Docker.
 
 ## 🔗 Réseaux sociaux :
 <p align="left">
