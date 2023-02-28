@@ -18,7 +18,7 @@ Nathack <a href="https://nathack.fr" target="_blank">
     <img align="center" src="/images/site.png"></img>
   </a>
   <a href="https://discord.gg/pFF5y7BX" target="_blank">
-    <img align="center" src="/images/discord.png"></img>
+    <img align="center" src="/images/server-discord.png"></img>
   </a>
   <a href="https://twitter.com/Nathack_" target="_blank">
      <img align="center" src="/images/twitter.png"></img>
