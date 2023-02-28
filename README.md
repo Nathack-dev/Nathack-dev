@@ -2,7 +2,7 @@
 - Bonjour ! Je suis Nathan, résidant en France et je vous souhaite la bienvenue sur mon Github. Je suis passionné par l'informatique et tout ce qui s'y rapporte, allant du développement à l'administration système. J'explore également d'autres domaines qui me passionnent. J'ai intégré Github il y a **5** ans.
 
 ## ⚙️ Mes technologies/outils que je maîtrise/utilise :
-- 💾 Hébergement/Serveur : PufferPanel, Pterodactyl, Proxmox, OVH, Google Cloud, Apache, Cloudflare, NGINX.
+- 💾 Hébergement/Serveur : PufferPanel, Pterodactyl, Proxmox, OVH, Google Cloud, Apache, Cloudflare, NGINX, iLo, iDRAC.
 - 📃 Langages :Java, JavaScript, Python, HTML, PHP, CSS, C++, Lua...
 - 📦 Base de donnée : MySQL, MongoDB, MariaDB...
 - 💻 Systèmes d'exploitation utilisés : Ubuntu, Debian, Kali Linux, Windows 10.
