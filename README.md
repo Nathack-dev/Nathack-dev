@@ -14,6 +14,9 @@ Nathack <a href="https://nathack.fr" target="_blank">
 
 ## 🔗 Réseaux sociaux :
 <p align="left">
+  <a href="https://www.buymeacoffee.com/nathack" target="_blank">
+    <img align="center" src="/images/coffee.png" width="25" height="25"></img>
+  </a>
   <a href="https://nathack.fr" target="_blank">
     <img align="center" src="/images/site.png" width="25" height="25"></img>
   </a>
@@ -22,8 +25,5 @@ Nathack <a href="https://nathack.fr" target="_blank">
   </a>
   <a href="https://twitter.com/Nathack_" target="_blank">
      <img align="center" src="/images/twitter.png" width="25" height="25"></img>
-  </a>
-  <a href="[https://twitter.com/Nathack_](https://www.buymeacoffee.com/nathack)" target="_blank">
-     <img align="center" src="[/images/twitter.png](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)" width="25" height="25"></img>
   </a></p>
 <p align="center"><img align="right" src="/images/french.png"></img></p> 
