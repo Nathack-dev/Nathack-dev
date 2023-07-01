@@ -10,7 +10,7 @@
 - ✏️ Conception : Adobe Photoshop, Adobe Illustrator, Adobe Premier Pro, Canva, Figma...
 - 📚 Autre : Trello, Notion, Stack Overflow, Docker...
   
-![Mes stats Github](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Mes stats Github](https://github-readme-stats.vercel.app/api?username=nathack-dev&show_icons=true&theme=merko)
 
 ## 🔗 Réseaux sociaux :
 <p align="left">
