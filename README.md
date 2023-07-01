@@ -9,8 +9,8 @@
 - 🔨 Logiciels : Visual Studio Code, Eclipse IDE, JetBrain, Sublime Text, FileZilla, MobaXterm, PuTTY...
 - ✏️ Conception : Adobe Photoshop, Adobe Illustrator, Adobe Premier Pro, Canva, Figma...
 - 📚 Autre : Trello, Notion, Stack Overflow, Docker...
-- 
-[![Mes statistiques Github !](https://github-readme-stats.vercel.app/api?username=nathack-dev)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Mes stats Github](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## 🔗 Réseaux sociaux :
 <p align="left">
