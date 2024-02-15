@@ -1,5 +1,5 @@
 ## ✨ À propos de moi :
-- Bonjour ! Je suis Nathan, résidant en France ⚔️ et je vous souhaite la bienvenue 👋 sur mon Github. Je suis passionné par l'informatique 👨‍💻 et tout ce qui s'y rapporte, allant du développement 📃 à l'administration système 💾. J'explore également d'autres domaines qui me passionnent 👀. J'ai intégré Github il y a **5** ans 🕓.
+- Bonjour ! Je suis Nathan, résidant en France <img height="200px" src="/images/french.png"></img> et je vous souhaite la bienvenue 👋 sur mon Github. Je suis passionné par l'informatique 👨‍💻 et tout ce qui s'y rapporte, allant du développement 📃 à l'administration système 💾. J'explore également d'autres domaines qui me passionnent 👀. J'ai intégré Github il y a **5** ans 🕓.
 
 ## ⚙️ Mes technologies/outils que je maîtrise/utilise :
 - 💾 IT : PufferPanel, Pterodactyl, Proxmox, VMWare, ESXi, OVH, Google Cloud, Apache, Cloudflare, NGINX, iLo, iDRAC...
